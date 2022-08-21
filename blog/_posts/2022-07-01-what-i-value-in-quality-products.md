@@ -1,3 +1,7 @@
+---
+layout: default
+title: About
+---
 What I value in quality products
 ====
 
